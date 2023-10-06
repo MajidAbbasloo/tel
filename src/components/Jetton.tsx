@@ -31,7 +31,7 @@ export function Jetton() {
             mint();
           }}
         >
-          Get jettons from faucet
+          omid jan
         </Button>
       </FlexBoxCol>
     </Card>
